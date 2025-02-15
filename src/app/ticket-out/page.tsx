@@ -5,7 +5,7 @@ export default function Ticketout() {
         <div className="main-container">
            <div className="flex flex-col md:flex-row justify-between mt-8 border border-cyan-500 m-auto px-4 md:px-12 pt-5 pb-12 w-full max-w-screen-lg h-76px rounded-[24px]">
         <span className="flex justify-start">
-          <img className="w-30 mt-2" src="Frame 1618871078.svg" alt="Frame 1" />
+          <img className="w-30 mt-2" src="Frame 1618871078.svg" alt="Frame 1"></img>
         </span>
         <span className="text-[#B3B3B3] font-JejuMyeongjo hidden sm:inline mt-6">
          <Link href="/events">Events</Link>
@@ -34,11 +34,11 @@ export default function Ticketout() {
                     <p className="font-JejuMyeongjo text-[32px] text-left">Ready</p>
                     <p className="font-Roboto text-[16px] text-right">Step 3/3</p>
                 </div>
-                <div><img src="Progress container.svg" alt="Progress" /></div>
+                <div><img src="Progress container.svg" alt="Progress"></img></div>
                 <p className="font-Alatsi text-[32px] text-center mt-[40px] mb-[10px]">Your Ticket is Booked!</p>
                 <p className="font-Roboto text-center text-[16px] mb-[12px]">Check your email for a copy or you can download</p>
                 <div className="mb-12 relative grid place-items-center">
-                    <img className="w-[fill] sm:w-400 h-300 md:w-[400px] mb-30" src="TICKET (1).svg" alt="Ticket" />
+                    <img className="w-[fill] sm:w-400 h-300 md:w-[400px] mb-30" src="TICKET (1).svg" alt="Ticket"></img>
                     <div className="border border-cyan-500 w-full max-w-[300px] rounded-[16px] p-6 absolute mb-20 place-items-center text-center">
                         <p className="font-Road Rage text-[24px]">Techember Fest "25</p>
                         <p className="font-Roboto text-[12px]">📍 04 Rumens road, Ikoyi, Lagos</p>
@@ -72,7 +72,7 @@ export default function Ticketout() {
                         </div>
                     </div>
                 </div>
-                <div className="mt-[-170px] sm:mt[-50] ml-8 place-items-center"><img className="max-w-full h-auto relative" src="Bar Code.svg" alt="Barcode" />
+                <div className="mt-[-170px] sm:mt[-50] ml-8 place-items-center"><img className="max-w-full h-auto relative" src="Bar Code.svg" alt="Barcode"></img>
                 </div>
                 <div className="flex flex-col md:flex-row justify-center w-full gap-4 mb-10 mt-20">
                 <Link href="/">

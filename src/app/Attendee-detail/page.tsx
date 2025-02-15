@@ -4,7 +4,7 @@ export default function Attendee() {
         <div className="main-container">
            <div className="flex flex-col md:flex-row justify-between mt-8 border border-cyan-500 m-auto px-4 md:px-12 pt-5 pb-12 w-full max-w-screen-lg  rounded-[24px]">
         <span className="flex justify-start">
-          <img className="w-30 mt-2" src="Frame 1618871078.svg" alt="Frame 1" />
+          <img className="w-30 mt-2" src="Frame 1618871078.svg" alt="Frame 1"></img>
         </span>
         <span className="text-[#B3B3B3] font-JejuMyeongjo hidden sm:inline mt-6">
          <Link href="/events">Events</Link>
@@ -33,7 +33,7 @@ export default function Attendee() {
                     <p className="font-JejuMyeongjo text-[32px] text-left">Attendee Details</p>
                     <p className="font-Roboto text-[16px] text-right">Step 2/3</p>
                 </div>
-                <div><img src="Progress container.svg" className="w-full" /></div>
+                <div><img src="Progress container.svg" className="w-full"></img></div>
                 <div className="content w-full text-white rounded-[32px] p-6 shadow-lg mx-auto border border-cyan-500 mt-10 mb-16">
                     <p className="font-Roboto text-[16px]">Upload profile Photo</p>
                     <div className="bg-[#000000] w-full h-[220px] opacity-80 mt-10 place-items-center text-center">

@@ -5,7 +5,7 @@ export default function Home() {
     <div className="main-container">
       <div className="flex flex-col md:flex-row justify-between mt-8 border border-cyan-500 m-auto px-4 md:px-12 pt-5 pb-12 w-full max-w-screen-lg h-auto rounded-[24px]">
         <span className="flex justify-start">
-          <img className="w-30 mt-2" src="Frame 1618871078.svg" alt="Frame 1" />
+          <img className="w-30 mt-2" src="Frame 1618871078.svg" alt="Frame 1"></img>
         </span>
         <span className="text-[#B3B3B3] font-JejuMyeongjo hidden sm:inline mt-6">
          <Link href="/events">Events</Link>
@@ -35,7 +35,7 @@ export default function Home() {
           <p className="font-JejuMyeongjo text-[32px]">Ticket Selection</p>
           <p className="font-Roboto text-[16px]">Step 1/3</p>
         </div>
-        <div><img src="Progress container.svg" alt="Progress" /></div>
+        <div><img src="Progress container.svg" alt="Progress"></img></div>
         <div className="content w-full text-white rounded-[32px] shadow-lg mx-auto border border-cyan-500 mt-10 mb-16 p-10 ">
           <h1 className="font-Road Rage text-[42px] text-center">Techember Fest "25</h1>
           <p className="pb-2 text-center">Join us for an unforgettable experience at</p>
@@ -48,9 +48,9 @@ export default function Home() {
           <div className="border-none bg-[#0E464F] h-1 rounded-[5px] mt-10"></div>
           <p className="mt-6">Select Ticket Type:</p>
           <div className="sm:grid lg:flex md:grid items-center justify-center">
-            <img className="g-4 p-4" src="Radio 4.svg" alt="Radio 4" />
-            <img className="g-4 p-4" src="Radio 5.svg" alt="Radio 5" />
-            <img className="g-4 p-4" src="Radio 5.svg" alt="Radio 5" />
+            <img className="g-4 p-4" src="Radio 4.svg" alt="Radio 4"></img>
+            <img className="g-4 p-4" src="Radio 5.svg" alt="Radio 5"></img>
+            <img className="g-4 p-4" src="Radio 5.svg" alt="Radio 5"></img>
           </div>
           <p className="mt-10">Number of Tickets</p>
           <form className="max-w-full mb-10 mt-5">
